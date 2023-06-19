@@ -17,12 +17,6 @@
     text-color: grey; 
 }
 
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
+#table {
+  background-color: #92a8d1;
 }
