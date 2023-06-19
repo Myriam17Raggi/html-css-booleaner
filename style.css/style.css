@@ -23,3 +23,10 @@ background_sfondo_titolo {
 #table {
   background-color: #92a8d1;
 }
+
+.footer{
+    text-align: center;
+    padding: 4px;
+    background-color: rgb(102, 102, 226);
+    color: white;
+}
